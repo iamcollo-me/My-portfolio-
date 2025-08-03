@@ -8,7 +8,7 @@ git add.
 bash 
 git commit-m"initial commit of my web portfolio"
 bash
-git remote add origin https://github.com/iamcollo-me
+git remote add origin https://github.com/iamcollo-me/my-portfolio 
 bash 
 git push-u origin main 
 
